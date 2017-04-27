@@ -1,0 +1,7 @@
+C:\Users\Brian\Documents\Control de Inventario Listas Ordenadas\Control de Inventario Listas Ordenadas\bin\Debug\Control de Inventario Listas Ordenadas.exe
+C:\Users\Brian\Documents\Control de Inventario Listas Ordenadas\Control de Inventario Listas Ordenadas\bin\Debug\Control de Inventario Listas Ordenadas.pdb
+C:\Users\Brian\Documents\Control de Inventario Listas Ordenadas\Control de Inventario Listas Ordenadas\obj\Debug\Control_de_Inventario_Listas_Ordenadas.Form1.resources
+C:\Users\Brian\Documents\Control de Inventario Listas Ordenadas\Control de Inventario Listas Ordenadas\obj\Debug\Control_de_Inventario_Listas_Ordenadas.Properties.Resources.resources
+C:\Users\Brian\Documents\Control de Inventario Listas Ordenadas\Control de Inventario Listas Ordenadas\obj\Debug\Control de Inventario Listas Ordenadas.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Control de Inventario Listas Ordenadas\Control de Inventario Listas Ordenadas\obj\Debug\Control de Inventario Listas Ordenadas.exe
+C:\Users\Brian\Documents\Control de Inventario Listas Ordenadas\Control de Inventario Listas Ordenadas\obj\Debug\Control de Inventario Listas Ordenadas.pdb
