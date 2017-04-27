@@ -43,7 +43,11 @@ namespace Control_de_Inventario_Listas_Ordenadas
         private void btnBuscar_Click(object sender, EventArgs e)
         {
             txtReporte.Clear();
-            txtReporte.Text = inventario.buscar2(Convert.ToInt32(txtPosición.Text)).ToString();
+            Producto res = inventario.buscar(Convert.ToInt32(txtPosición.Text));
+            if (res != null)
+                txtReporte.Text = res.ToString();
+            else
+                txtReporte.Text = "Not Found!!!";
         }
 
         private void btnReporte_Click(object sender, EventArgs e)
